@@ -1,0 +1,24 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title":"welcom to the new blog",
+            "body":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi eius architecto quas dignissimos, sapiente eaque facere quis ut corporis, repellendus culpa cupiditate exercitationem nulla. Quos sapiente fugiat illo animi doloremque repudiandae ad culpa. Qui necessitatibus voluptatibus illum nemo. Eveniet, officia dolorum cupiditate reiciendis asperiores quo quis? Aspernatur aut est cumque aperiam commodi tenetur incidunt, nostrum, quis, ex porro dolor? Nihil eius praesentium modi dignissimos, voluptatibus unde? Similique laborum, dicta dolor enim adipisci, modi accusamus quam sed consequuntur est nihil odit totam velit et nulla blanditiis voluptates eligendi culpa in! Sed tempore excepturi exercitationem molestias doloremque, quam nobis vero nihil, illum ipsam consequatur adipisci. Esse natus blanditiis impedit odio minus sit at asperiores, commodi totam inventore omnis consequuntur tempora ipsa. Facilis.",
+            "tags":[
+                "webdwv",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id":2,
+            "title":"top 5 css tips",
+            "body":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi eius architecto quas dignissimos, sapiente eaque facere quis ut corporis, repellendus culpa cupiditate exercitationem nulla. Quos sapiente fugiat illo animi doloremque repudiandae ad culpa. Qui necessitatibus voluptatibus illum nemo. Eveniet, officia dolorum cupiditate reiciendis asperiores quo quis? Aspernatur aut est cumque aperiam commodi tenetur incidunt, nostrum, quis, ex porro dolor? Nihil eius praesentium modi dignissimos, voluptatibus unde? Similique laborum, dicta dolor enim adipisci, modi accusamus quam sed consequuntur est nihil odit totam velit et nulla blanditiis voluptates eligendi culpa in! Sed tempore excepturi exercitationem molestias doloremque, quam nobis vero nihil, illum ipsam consequatur adipisci. Esse natus blanditiis impedit odio minus sit at asperiores, commodi totam inventore omnis consequuntur tempora ipsa. Facilis.",
+            "tags":[
+                "css",
+                "webdev",
+                "coding"
+            ]
+        }
+    ]
+}
